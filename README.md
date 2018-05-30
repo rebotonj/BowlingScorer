@@ -2,6 +2,15 @@
 
 This bowling scorer was created as part of a coding challenge case study. The problem statement was to write a program that takes as input an array of integers representing a complete 10-pin bowling game, where each int represents the number of pins knocked down by a single roll, and outputs the score for the game.
 
+--------
+Info
+--------
+Developed in Eclipse Oxygen.3a Release (4.7.3a) - http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/oxygen3a
+
+Java JDK 8u171 - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+To run the bowling scorer, compile in Eclipse with the JDK installed.
+
 ---------------
 Assumptions
 ---------------
@@ -23,9 +32,3 @@ Tests
 Test methods verify correct score is calculated for different cases - a perfect game, a game with no strikes or spares, a game with no pins knocked down, a game with a strike in the last frame, and a game with a spare in the last frame.
 
 Input testing was done manually.
- 
---------
-Info
---------
-Developed in Eclipse Oxygen.3a Release (4.7.3a)
-Java JDK 8u171
